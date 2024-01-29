@@ -34,7 +34,7 @@ module.exports = {
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
+  WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'nobadword',
