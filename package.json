@@ -13,7 +13,7 @@
     "automation",
     "nodejs"
   ],
-  "author": "DarkMakerofc (mrnima)",
+  "author": "Sasitha",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
